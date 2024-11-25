@@ -1,3 +1,3 @@
-#Output:
+# Output:
 
 ![alt text](image.png)
